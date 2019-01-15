@@ -11,7 +11,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
   display:block;
   }
 
-  html, body {background: #181818; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
+  html, body {background: #756646; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #222;}
 
   .clear {clear: both;}
 
@@ -131,7 +131,7 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 
   .sectionContent h2 {
     font-family: 'Rokkitt', Helvetica, Arial, sans-serif;
-    font-size: 1.5em;
+    font-size: 1.3em;
     margin-bottom: -2px;
   }
 
